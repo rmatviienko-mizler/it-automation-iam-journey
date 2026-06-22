@@ -1,0 +1,9 @@
+IAM Access Review Audit Summary
+-------------------------------
+
+Total findings: 12
+
+Critical: 2
+High: 5
+Medium: 5
+Low: 0

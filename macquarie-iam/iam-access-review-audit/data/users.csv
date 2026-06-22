@@ -1,0 +1,8 @@
+username,full_name,department,previous_department,employment_type,hr_status,account_status,mfa_enabled,role,end_date,account_type,owner,key_age_days
+alice,Alice Morgan,Finance,,employee,active,active,true,user,,human,,0
+bob,Bob Smith,IT,,employee,active,active,false,admin,,human,,0
+carol,Carol Jones,Sales,,employee,terminated,disabled,true,user,,human,,0
+david,David Brown,Finance,,contractor,active,active,true,user,2026-05-15,human,,0
+emma,Emma Wilson,Finance,Sales,employee,active,active,true,user,,human,,0
+frank,Frank Miller,HR,,employee,active,active,true,user,,human,,0
+svc_backup,Backup Service Account,IT,,service,active,active,false,admin,,service,,420

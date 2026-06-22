@@ -1,0 +1,10 @@
+username,application,access_role,access_status,group_name
+alice,FinanceApp,reader,active,finance-readers
+bob,AdminPortal,admin,active,global-admins
+carol,SalesCRM,user,active,sales-users
+david,FinanceApp,reader,active,finance-readers
+emma,FinanceApp,reader,active,finance-readers
+emma,SalesCRM,user,active,sales-users
+frank,HRPortal,viewer,active,hr-viewers
+svc_backup,CloudStorage,admin,active,storage-admins
+frank,FinanceApp,reader,active,finance-readers

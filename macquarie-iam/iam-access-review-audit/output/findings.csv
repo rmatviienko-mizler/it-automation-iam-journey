@@ -1,0 +1,13 @@
+severity,username,finding,recommended_action
+CRITICAL,carol,Disabled or terminated user still has active access to SalesCRM,Remove application access and verify full deprovisioning
+CRITICAL,carol,Disabled or terminated user still has an active session,Revoke active sessions and verify full offboarding
+HIGH,bob,Active human admin without MFA,Enable MFA or remove privileged role
+HIGH,svc_backup,Active access to CloudStorage without approval ticket,Review access justification and obtain or document approval
+HIGH,svc_backup,Service account is missing an owner,Assign a business or technical owner to the service account
+HIGH,svc_backup,Service account has admin role,Review least privilege and reduce permissions if possible
+HIGH,david,Active contractor account past end date: 2026-05-15,Disable contractor account or extend the approved end date
+MEDIUM,carol,Active access to SalesCRM without approval ticket,Review access justification and obtain or document approval
+MEDIUM,emma,Active access to SalesCRM without approval ticket,Review access justification and obtain or document approval
+MEDIUM,frank,Active access to FinanceApp without approval record,Review access justification and obtain or document approval
+MEDIUM,svc_backup,Service account key is older than 365 days,Rotate the service account key or secret
+MEDIUM,emma,User may still have access related to previous department: SalesCRM / sales-users,Review mover access and remove old department access if no longer required

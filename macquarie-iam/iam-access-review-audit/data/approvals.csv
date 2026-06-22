@@ -1,0 +1,9 @@
+username,application,approval_ticket,approved_by
+alice,FinanceApp,IAM-1001,manager_finance
+bob,AdminPortal,IAM-1002,ciso
+carol,SalesCRM,,
+david,FinanceApp,IAM-1004,manager_finance
+emma,FinanceApp,IAM-1005,manager_finance
+emma,SalesCRM,,
+frank,HRPortal,IAM-1006,manager_hr
+svc_backup,CloudStorage,,

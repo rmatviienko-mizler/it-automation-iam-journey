@@ -1,0 +1,8 @@
+username,session_active,last_login_days
+alice,false,2
+bob,true,1
+carol,true,20
+david,false,45
+emma,false,3
+frank,false,8
+svc_backup,false,180
